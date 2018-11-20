@@ -1,0 +1,13 @@
+#
+# robots.txt for pingmin's "img/" library repo path,
+# especially for https://img.pingmin.me website as standby.
+#
+
+User-Agent: *
+Disallow: /
+
+
+#
+# Pingmin Fenlly Liu
+# 20181120
+#
